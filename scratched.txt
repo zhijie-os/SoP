@@ -1,0 +1,130 @@
+Let me start by telling a story. When I was in high school, I have no idea 
+why I was born and why am I here to do the work I am doing and studying. We studied 
+really hard from 6am to 9pm, just in order to compete with other 6 million of students 
+during the national exam. It was not a lot of fun, and I have no idea why we are studying 
+all the subject that we were studying, we barely have anytime outside school. I was not 
+enjoying it. So I decided to not take the national exame, and signed up a full year course 
+to prepare me for English language test and SAT. It was the first time that feel truly that
+I am chasing my dream and doing the things that are not setup by the society or meet anyone's expectation.
+I was alive. Fast forward, I came to a new Country and a new city, Calgary, Canada. On 
+the flight from YVR to YYC, I had my first glance of the loki mountatin. It was beautiful 
+and soon I have a panic attack. I am on the flight in a country that I have never visited before, and 
+transit myself into a stage of my life - University. I choose the major of computer science after 
+doing some research on the Internet, and decided to went for it since I was good at math and logics,
+and the major seems a good fit me. I have the period of the time that I just want to study, hit the 
+library after the classes and crack the assignment way before its due day and spending a lot of 
+time googling the ways to learn the calculus, statistics, and discrete math which is hidden in an 
+introductory computer science course. I was fully booked for everyday, and there was no time that 
+I give myself to spare, I was very one dimensional, but I was enjoying it, enjoying the study for 
+the first time, that actually enjoying it. I will feel so happy after solving some of the math problems
+after hours of learning new material and digesting. I would feel so happy after a logical course which 
+it seems so much fun to prove "If Eva have not eaten the apple, then Adam must did" on a piece of A4 paper 
+using logical symbols negation, coujunction and or. Fast forward, the COVID hits, the in person classes 
+were shut down and I went back my home country, I was staying up every night just in order to catch 
+the synchronous lecture, I would love to argue with professor in the machinery course. It was very exhausting 
+to live without seeing the sun for an entire year, but it was worth it. I got to know how a latch works,
+how divide and conquer worked, and build a system with a team of 15 people through mimic colloboration, but 
+man it was fun!
+
+She was there all the time.
+
+
+
+
+
+
+
+
+My name is Zhijie Xia. I am applying for the Mobile Robotics Lab at esteemed McGill University. I have 
+firstly come up the idea of studying robotics years ago when I was young kid wish to make an impact in
+this world. The world is constantly involving place, and many technologies have enmerged while I was growing 
+up. Flip-phone, smartphone, laptop, tablet, not just the hardware set also the software side, conference video 
+apps, slack, notion, obsidian, chatgpt, ethereum, bitcoin. All those technologies have merged gradually 
+throughout the years, it is make me realize how wonderful our world is and kinda want to know those 
+people who developed those technologies and maybe someday become part of it. As someone who wondered and 
+wondered, I signed up my undergraduate degree at University of Calgary and studied computer science 
+as my major. I was immediately fasniated by the courses and the logical behind everything. 
+I find there is nothing particularly hard in the computer science and everything that we are using 
+are being build by engineers that are no smarter than me. I can understand their design and grasp 
+their original purpose of creating the master piece called computer. I have been really interested 
+in the Linux for a while, and I used Linux system throughout my undergraduate degree and I code a lot 
+of C and did some kernel development, I would love to play around with terminal and writing bash scripts 
+that do staff that seems cool. I once printed the book linux from scratch and being a advocator of 
+open source movement. I loved cryptocurrency and the idea of a distrbuted banking system that everyone 
+is anomyous and no mid man and the idea of longest chain wins, and I put a lot of time learning it 
+and understand what bitcoin is and how it was implemented and read about bitcoin whitepaper and 
+ethereum white paper and smart contract and I even used my free time to implement bitcoin core in Go. 
+I also build my ethereum mining rigs in my dorm. I just could not stop smiling when the fans are spinning 
+the hashrate went up. I learned how to code a game using GPIO and on RasperPi called fog, I enjoyed 
+the low level programming very much during my first two year of university and theorical part of 
+the computer science all the logics. I particular love a course that requires me to write a compiler from 
+scratch where I throughoutly understand how the compiler works and it was no longer a black for me. 
+It becomes a combinations of larser, parser, code generator. I was just loving it. During my time in school,
+I find I have time to do outside the course work, I asked Dr. Robin Cockett if I can work on a research project 
+with him, and he showed how much functional programming can do wonderful things. Dr. Williams discussed 
+computer network with me. At that summer, I did not get the PURE award to work with Dr. Robin Cockett 
+who was trying to work with on a project called CaMPL. I ended up looking into different professors in my
+faculty, and I found out Dr. Ryo Suzuki was doing really nice work and visual appearing works in the 
+field of human computer interaction, everything seems so facinating, I did not get discourged by 
+my PURE award application, I offered to vulounteeraliry work in the programmable reality lab. I was 
+only showing up at the lab everyday just wish to see him for a bit and knowing him for a bit, and I was 
+not doing a lot of things. But I got time to learn Aframe and some of the unity. I was having fun! Eventually,
+he started to assign task to different lab members and I was stuffed on a project called reality canvas 
+and working with Kyzyl and Mahammd, I was not the group leader, but I ended up doing a lot of things, I start 
+to read paper chalktalk, prototo, body-driven and balabala, and I spent a lot of time grabbing information and 
+build taxonomy for the reality canvas, and I was just sitting there see Dr. Suzuki doing his magical things.
+It turned out that everyone leave the group along the way, and I ended up being the only people working on 
+the realityCanvas, I code each interaction techniques and worked really hard to finished the user-study and 
+building graphs and writing the paper, and I still remember that I was sleeping on the lab's floor for 
+the last 3 days before the submission and photoshoping the teaser figures to make it beautiful. It was fun, 
+a lot of fun! We submitted to the ACM CHI 2023. It passed the first round review, the rebuttal was the 
+first time that have been introduced to Academia, I was looking at the reviews and thinking how can I 
+rebutte them and 'argue' with them? I tried as someone who just learned how to read and write, I was 
+defending my work and my effort. It was awesome! Although it did not make to the publication that cycle,
+but man it was my first time to work on some project and submit to conference for peer review! Then my 
+fourth year of university started, the work I was doing was so much fun, I read a lot of paper from USNEIX 
+and NDSS, IEEE S\&P. I was on a full-year research project with Dr. Reardon, the research project was a 
+different area than the research project that I have done in programmable reality lab. I was supervised by 
+Dr. Joel Reardon, there was no lab that I could use, so I have to do my own research and sync with Dr. Reardon 
+on weekly or bi-weekly basis. I learn a lot about how the Android permission system worked, how it envolved 
+and found out a lot of permission maps are outdated so I cloned the Android repository and build a syntax 
+analyzer to parse the permissions out from Android source code, and curled 10k applications from various 
+stores and decompiled all the APK into smali code and by using the permission map, I was able to extract 
+some come API usage patterns and identified potential malcious combination of setAlarm and getUserLocation.
+It was all fun that I have, by looking back I was very one dimensional and focus on my study and a relationship
+that I had for 5 years. But in the end the relationship collapsed. I went back to China for two months 
+and eating and waking up everyday just thinking what am I going to do with my life. What exactly I need 
+to do with my life. I could not figure out, but suddenly my previous lab mate at programmable reality lab 
+called me recruited me for an softwar development job at Toronto. He recruited me and just like that 
+I stepped on a journey to a city that I have never visited before and I worked there for two months and 
+helped the company to build a MVP out of it. I visited ACL conference at Fairmont Harborfront in Toronto and 
+see many interesting people there and many interesting projects. I recall a particular project that using 
+model to predicate the IETF member's words with their associated title, it concluded that the higher the 
+title the more formal they write their emails. The researcher says a sentence "If you are really interested,
+you will make it happen, you will catch everyone ahead of you. And you should see me starting, I could not 
+install a library for weeks". I meet a lot of expats there, especially my senior developer from UK, 
+who is a digital nomad who did a replacement year at German. He told me a lot about life and software development. 
+He made me structured in my PR and git commit. I meet friends there, Manuel from HSBC, Ryan from UofT, 
+Alex from Mexico. They all are brillant engineers and tech greeks, we would have a weekly meetup at victory 
+cafe and talk about newest technologies. Then I moved to vancouver for a career change as I see an opportunity,
+I did web development at Toronto for my first job and move to Vancouver to do firmware development as I want 
+to experience different possibilities. Before I left Toronto, my friend drove me to McGill University and 
+I was amazed by the city Montreal and the school, I printed my resume and my paper and ready to talk to professor 
+Meger and Dudek, unforuntaly they were not in schoo, but I knocked on the mobile robotics lab 
+and meet PhD student Andrew and Master student Dave there, it seems a place I would like to work and people I 
+would like to work with. I have more structured working environment and working on tasks, and 
+our company Lucid Vision Labs, deal with camera a lot and I got to write firmware which is the software side of 
+the hardware. After all those long journey, five years working choosing study aboard. I do thing the startup 
+experience let me realize in this life I can do whatever I want to do and even someone unheard could dream 
+big and be ambitious as we all put out effects and we believe in ourselves and chase our dreams, we have a 
+chance to make a positive impact to this world. It made me thinking, what can I do if I want to change this 
+world or realize what I can achieve in this life, and my way of impacting or contributing this world. I would 
+do it using something tangible which my previous research experience is mixed reality intersects with tangible,
+I want to build my own company, Gladiator Technologies, Inc which I have the thought before I started my 
+undergrduate, I want to build tangible staff not just software, I wanna my creation to interact with the 
+real world have physical impacts on it. Robotics is the place that I would aim to, I would want to learn 
+I am hungry for new knowledge and as computer science student Dr. Meger and Dudek are both in Computer Science 
+and their research are more on the software side or control alogrithm for the robotics, it seems 
+so much fun and I would love to contribute to the team. By admitting me, you will have a student with strong 
+coding ability, strong research background, innovative and independent to conduct research, eager to learn, 
+ambitious enough to change the world.

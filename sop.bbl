@@ -1,0 +1,231 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{xia2023realitycanvas}{article}{}
+      \name{author}{4}{}{%
+        {{hash=a5c4782d7baa8ecee0a42d388312fcc8}{%
+           family={Xia},
+           familyi={X\bibinitperiod},
+           given={Zhijie},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=c645c3958785b4251d23c859e82dbd97}{%
+           family={Monteiro},
+           familyi={M\bibinitperiod},
+           given={Kyzyl},
+           giveni={K\bibinitperiod}}}%
+        {{hash=21fe2b19ab5e238931ffc1e2b0a3f196}{%
+           family={Van},
+           familyi={V\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=dfa3c619d75c2e3fe72a4786a4711b4d}{%
+           family={Suzuki},
+           familyi={S\bibinitperiod},
+           given={Ryo},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{4248a1a36cf24a787a3654ec5aa558a1}
+      \strng{fullhash}{a03fc2bf811c8abe7dfbf97908447a9a}
+      \strng{bibnamehash}{4248a1a36cf24a787a3654ec5aa558a1}
+      \strng{authorbibnamehash}{4248a1a36cf24a787a3654ec5aa558a1}
+      \strng{authornamehash}{4248a1a36cf24a787a3654ec5aa558a1}
+      \strng{authorfullhash}{a03fc2bf811c8abe7dfbf97908447a9a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:2307.16116}
+      \field{title}{RealityCanvas: Augmented Reality Sketching for Embedded and Responsive Scribble Animation Effects}
+      \field{year}{2023}
+    \endentry
+    \entry{BERT}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=882c40fcf5b2201e3c44e85662236467}{%
+           family={Maarten},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{882c40fcf5b2201e3c44e85662236467}
+      \strng{fullhash}{882c40fcf5b2201e3c44e85662236467}
+      \strng{bibnamehash}{882c40fcf5b2201e3c44e85662236467}
+      \strng{authorbibnamehash}{882c40fcf5b2201e3c44e85662236467}
+      \strng{authornamehash}{882c40fcf5b2201e3c44e85662236467}
+      \strng{authorfullhash}{882c40fcf5b2201e3c44e85662236467}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{BERT}
+      \verb{urlraw}
+      \verb https://maartengr.github.io/BERTopic/api/bertopic.html
+      \endverb
+      \verb{url}
+      \verb https://maartengr.github.io/BERTopic/api/bertopic.html
+      \endverb
+    \endentry
+    \entry{manderson2016towards}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=a3af2ca173ec4ca7c98cd594fef25248}{%
+           family={Manderson},
+           familyi={M\bibinitperiod},
+           given={Travis},
+           giveni={T\bibinitperiod}}}%
+        {{hash=968d50258df8e602bdff89292ed04f7e}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Jimmy},
+           giveni={J\bibinitperiod}}}%
+        {{hash=f805d14f9a4b7a7d51bb75bc2056b7bb}{%
+           family={Cortés\bibnamedelima Poza},
+           familyi={C\bibinitperiod\bibinitdelim P\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=ec0fd53aa8d96cb2189599e9bac27a55}{%
+           family={Dudek},
+           familyi={D\bibinitperiod},
+           given={Natasha},
+           giveni={N\bibinitperiod}}}%
+        {{hash=a5137015bf373eff6cd1b6a96b145c3c}{%
+           family={Meger},
+           familyi={M\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=13d3850176ca9bbfb14e68325cc0a9fc}{%
+           family={Dudek},
+           familyi={D\bibinitperiod},
+           given={Gregory},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{08e903b7398226a0d6fcd49544c58241}
+      \strng{fullhash}{920325b101d4177bb73036e36bf3c50a}
+      \strng{bibnamehash}{08e903b7398226a0d6fcd49544c58241}
+      \strng{authorbibnamehash}{08e903b7398226a0d6fcd49544c58241}
+      \strng{authornamehash}{08e903b7398226a0d6fcd49544c58241}
+      \strng{authorfullhash}{920325b101d4177bb73036e36bf3c50a}
+      \field{extraname}{1}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Field and Service Robotics: Results of the 10th International Conference}
+      \field{title}{Towards autonomous robotic coral reef health assessment}
+      \field{year}{2016}
+      \field{pages}{95\bibrangedash 108}
+      \range{pages}{14}
+    \endentry
+    \entry{manderson2020learning}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=a3af2ca173ec4ca7c98cd594fef25248}{%
+           family={Manderson},
+           familyi={M\bibinitperiod},
+           given={Travis},
+           giveni={T\bibinitperiod}}}%
+        {{hash=8f4d835e3b197b82223731447bd86733}{%
+           family={Wapnick},
+           familyi={W\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a5137015bf373eff6cd1b6a96b145c3c}{%
+           family={Meger},
+           familyi={M\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=13d3850176ca9bbfb14e68325cc0a9fc}{%
+           family={Dudek},
+           familyi={D\bibinitperiod},
+           given={Gregory},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{08e903b7398226a0d6fcd49544c58241}
+      \strng{fullhash}{8d7d51809d83612f331a02c5716c3054}
+      \strng{bibnamehash}{08e903b7398226a0d6fcd49544c58241}
+      \strng{authorbibnamehash}{08e903b7398226a0d6fcd49544c58241}
+      \strng{authornamehash}{08e903b7398226a0d6fcd49544c58241}
+      \strng{authorfullhash}{8d7d51809d83612f331a02c5716c3054}
+      \field{extraname}{2}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2020 IEEE International Conference on Robotics and Automation (ICRA)}
+      \field{title}{Learning to drive off road on smooth terrain in unstructured environments using an on-board camera and sparse aerial images}
+      \field{year}{2020}
+      \field{pages}{1263\bibrangedash 1269}
+      \range{pages}{7}
+    \endentry
+    \entry{henderson2018deep}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=50374f86d34cc54b8a5788ccbcce4cfe}{%
+           family={Henderson},
+           familyi={H\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=227ede2745d597df1564e6adddb6ee97}{%
+           family={Islam},
+           familyi={I\bibinitperiod},
+           given={Riashat},
+           giveni={R\bibinitperiod}}}%
+        {{hash=799d66480d783672ee2f29b7fb418229}{%
+           family={Bachman},
+           familyi={B\bibinitperiod},
+           given={Philip},
+           giveni={P\bibinitperiod}}}%
+        {{hash=5b77dedc7f77ff84caad46064e6e3cbb}{%
+           family={Pineau},
+           familyi={P\bibinitperiod},
+           given={Joelle},
+           giveni={J\bibinitperiod}}}%
+        {{hash=4428b76e1301b2db58587fb18bb59a38}{%
+           family={Precup},
+           familyi={P\bibinitperiod},
+           given={Doina},
+           giveni={D\bibinitperiod}}}%
+        {{hash=a5137015bf373eff6cd1b6a96b145c3c}{%
+           family={Meger},
+           familyi={M\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{cd6d7b6a5792cd65837937431682a57e}
+      \strng{fullhash}{544816e5c32b50b66b251a8291da223d}
+      \strng{bibnamehash}{cd6d7b6a5792cd65837937431682a57e}
+      \strng{authorbibnamehash}{cd6d7b6a5792cd65837937431682a57e}
+      \strng{authornamehash}{cd6d7b6a5792cd65837937431682a57e}
+      \strng{authorfullhash}{544816e5c32b50b66b251a8291da223d}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the AAAI conference on artificial intelligence}
+      \field{number}{1}
+      \field{title}{Deep reinforcement learning that matters}
+      \field{volume}{32}
+      \field{year}{2018}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
