@@ -56,6 +56,89 @@
       \field{title}{RealityCanvas: Augmented Reality Sketching for Embedded and Responsive Scribble Animation Effects}
       \field{year}{2023}
     \endentry
+    \entry{felt2011android}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=6cb6ce81243cb36de22005936513cbb0}{%
+           family={Felt},
+           familyi={F\bibinitperiod},
+           given={Adrienne\bibnamedelima Porter},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=2b8e0124007aca6e9cb59b90d5286e28}{%
+           family={Chin},
+           familyi={C\bibinitperiod},
+           given={Erika},
+           giveni={E\bibinitperiod}}}%
+        {{hash=bf0222b3b02d0f4ab5e4bc295543e202}{%
+           family={Hanna},
+           familyi={H\bibinitperiod},
+           given={Steve},
+           giveni={S\bibinitperiod}}}%
+        {{hash=d458d5f9b64652055bd81d57e4777b22}{%
+           family={Song},
+           familyi={S\bibinitperiod},
+           given={Dawn},
+           giveni={D\bibinitperiod}}}%
+        {{hash=45a593fbd4e5b2f4d60199ccfdb4fe59}{%
+           family={Wagner},
+           familyi={W\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{aa0bef83a8be71eb52bd29f6e9361b3a}
+      \strng{fullhash}{147a821a5ef6ee5cbeb15bec5e8b4e23}
+      \strng{bibnamehash}{aa0bef83a8be71eb52bd29f6e9361b3a}
+      \strng{authorbibnamehash}{aa0bef83a8be71eb52bd29f6e9361b3a}
+      \strng{authornamehash}{aa0bef83a8be71eb52bd29f6e9361b3a}
+      \strng{authorfullhash}{147a821a5ef6ee5cbeb15bec5e8b4e23}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 18th ACM conference on Computer and communications security}
+      \field{title}{Android permissions demystified}
+      \field{year}{2011}
+      \field{pages}{627\bibrangedash 638}
+      \range{pages}{12}
+    \endentry
+    \entry{au2012pscout}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=9d69e33c71d549272b637c00e050562d}{%
+           family={Au},
+           familyi={A\bibinitperiod},
+           given={Kathy\bibnamedelimb Wain\bibnamedelima Yee},
+           giveni={K\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=ca12b881e059587468a4b094485017ad}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Yi\bibnamedelima Fan},
+           giveni={Y\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=1a0371e0a62b44d30cc131417169cf7c}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Zhen},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=7226f8a80689b0493e0a25d067884b85}{%
+           family={Lie},
+           familyi={L\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{ac4346a6d34bc17656431625d1b66d2b}
+      \strng{fullhash}{f8206180be0191084a647dc47e8a146e}
+      \strng{bibnamehash}{ac4346a6d34bc17656431625d1b66d2b}
+      \strng{authorbibnamehash}{ac4346a6d34bc17656431625d1b66d2b}
+      \strng{authornamehash}{ac4346a6d34bc17656431625d1b66d2b}
+      \strng{authorfullhash}{f8206180be0191084a647dc47e8a146e}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 2012 ACM conference on Computer and communications security}
+      \field{title}{Pscout: analyzing the android permission specification}
+      \field{year}{2012}
+      \field{pages}{217\bibrangedash 228}
+      \range{pages}{12}
+    \endentry
     \entry{BERT}{misc}{}
       \name{author}{1}{}{%
         {{hash=882c40fcf5b2201e3c44e85662236467}{%
@@ -68,8 +151,8 @@
       \strng{authorbibnamehash}{882c40fcf5b2201e3c44e85662236467}
       \strng{authornamehash}{882c40fcf5b2201e3c44e85662236467}
       \strng{authorfullhash}{882c40fcf5b2201e3c44e85662236467}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{BERT}
@@ -123,8 +206,8 @@
       \strng{authornamehash}{08e903b7398226a0d6fcd49544c58241}
       \strng{authorfullhash}{920325b101d4177bb73036e36bf3c50a}
       \field{extraname}{1}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Field and Service Robotics: Results of the 10th International Conference}
@@ -166,8 +249,8 @@
       \strng{authornamehash}{08e903b7398226a0d6fcd49544c58241}
       \strng{authorfullhash}{8d7d51809d83612f331a02c5716c3054}
       \field{extraname}{2}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{2020 IEEE International Conference on Robotics and Automation (ICRA)}
@@ -215,8 +298,8 @@
       \strng{authorbibnamehash}{cd6d7b6a5792cd65837937431682a57e}
       \strng{authornamehash}{cd6d7b6a5792cd65837937431682a57e}
       \strng{authorfullhash}{544816e5c32b50b66b251a8291da223d}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the AAAI conference on artificial intelligence}
