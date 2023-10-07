@@ -1,0 +1,46 @@
+I initiated an independent research project with Dr. Joel Reardon for my undergraduate thesis. 
+This project focused on a detailed exploration of the Android permission 
+system's design and implementation, driven by my desire to uncover the 
+root causes of Android permission breaches and the prevalence of overprivileged apps. 
+The transition from Human-Computer Interaction (HCI) research to 
+the field of security research brought forth both challenges and profound fulfillment. 
+Building upon my prior research experience, I applied my transferable research skills to 
+this endeavor. My work encompassed conducting a comprehensive literature review and refining 
+state-of-the-art API permission mappings [2, 3]. Additionally, I developed a pipeline for 
+acquiring Android application APKs from the Google Play Store, followed by their decompilation,
+permission usage data extraction, and mapping to the corresponding API calls. 
+This journey also led me to explore various frequent itemset mining algorithms to identify 
+optimal patterns in permission usage, ultimately culminating in the selection of the 
+FP-mining algorithm. Our research uncovered noteworthy permission usage patterns among 35,117 
+Android applications sourced from the Google Play Store. We meticulously constructed an 
+API-permission mapping, comprising 1,976 API calls and 323 permissions. During our analysis, 
+suspicions arose regarding the potential maliciousness of certain patterns, prompting us to 
+engage in a manual examination of our application corpus and the decompiled smali packages to 
+substantiate our concerns. Notably, we uncovered instances where applications exploited the 
+combination of SET EXACT ALARM and ACCESS FINE LOCATION to periodically transmit device location 
+data to external servers. However, due to constraints in time and personal challenges, we were 
+unable to undertake a more extensive investigation of these potentially malicious applications or 
+prepare them for the peer-review process. This comprehensive experience marked my robust introduction
+to the realm of security research, further honing my transferable research skills, and 
+instilling a resolute determination to address flaws and pursue greater achievements in the 
+quest to demand more from our reality.
+
+
+I initiated an independent research project with Dr. Joel Reardon from my undergraduate thesis. 
+This project was to investigate the Android permission system's design and implementation, trying 
+to find the root cause of the prevalence of overpriviledged apps. The transition from HCI research 
+to security research is both challenging and fulfilling, I conducted literature reviews and 
+refining state-of-art API permission mappings ~\cite{}. Furthermore, I developed 
+pipeling to build APK and API permission usages corpus by downloding apks from google play and 
+reverse engineering them into smali package. I explored several frequent itemset mining algorithm 
+and applied FP-growth~\cite{} mapping to uncovered the permission usage patterns. 
+35,117 Android applications sourced from the Google Play Store and an API-permission mapping, 
+comprising 1,976 API calls and 323 permissions. We suspect potential maliciousness of certain 
+patterns. Notably, we uncovered instances where applications exploited the 
+combination of SET EXACT ALARM and ACCESS FINE LOCATION to periodically transmit device location 
+data to external servers.However, due to constraints in time and personal challenges, we were 
+unable to undertake a more extensive investigation of these potentially malicious applications or 
+prepare them for the peer-review process. This comprehensive experience marked my robust introduction
+to the realm of security research, further honing my transferable research skills, and 
+instilling a resolute determination to address flaws and pursue greater achievements in the 
+quest to demand more from our reality.

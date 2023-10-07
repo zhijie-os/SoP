@@ -2364,10 +2364,11 @@
     <bcf:citekey order="1" intorder="1">xia2023realitycanvas</bcf:citekey>
     <bcf:citekey order="2" intorder="1">felt2011android</bcf:citekey>
     <bcf:citekey order="2" intorder="2">au2012pscout</bcf:citekey>
-    <bcf:citekey order="3" intorder="1">BERT</bcf:citekey>
-    <bcf:citekey order="4" intorder="1">manderson2016towards</bcf:citekey>
-    <bcf:citekey order="5" intorder="1">manderson2020learning</bcf:citekey>
-    <bcf:citekey order="6" intorder="1">henderson2018deep</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">borgelt2005implementation</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">BERT</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">manderson2016towards</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">manderson2020learning</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">henderson2018deep</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

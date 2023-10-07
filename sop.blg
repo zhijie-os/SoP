@@ -1,15 +1,15 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'sop.blg'
-[35] biber-darwin:340> INFO - === Sun Oct  1, 2023, 13:17:52
-[43] Biber.pm:419> INFO - Reading 'sop.bcf'
-[88] Biber.pm:979> INFO - Found 7 citekeys in bib section 0
-[96] Biber.pm:4419> INFO - Processing section 0
-[101] Biber.pm:4610> INFO - Looking for bibtex file 'reference.bib' for section 0
-[101] bibtex.pm:1713> INFO - LaTeX decoding ...
-[105] bibtex.pm:1519> INFO - Found BibTeX data source 'reference.bib'
-[145] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[145] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[145] Biber.pm:4239> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
-[145] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[149] bbl.pm:660> INFO - Writing 'sop.bbl' with encoding 'UTF-8'
-[153] bbl.pm:763> INFO - Output to sop.bbl
+[40] biber-darwin:340> INFO - === Sat Oct  7, 2023, 13:16:04
+[49] Biber.pm:419> INFO - Reading 'sop.bcf'
+[95] Biber.pm:979> INFO - Found 8 citekeys in bib section 0
+[106] Biber.pm:4419> INFO - Processing section 0
+[111] Biber.pm:4610> INFO - Looking for bibtex file 'reference.bib' for section 0
+[112] bibtex.pm:1713> INFO - LaTeX decoding ...
+[116] bibtex.pm:1519> INFO - Found BibTeX data source 'reference.bib'
+[159] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[159] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[159] Biber.pm:4239> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[159] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[165] bbl.pm:660> INFO - Writing 'sop.bbl' with encoding 'UTF-8'
+[169] bbl.pm:763> INFO - Output to sop.bbl

@@ -674,12 +674,12 @@ INPUT ./figures/teaser-num.pdf
 INPUT figures/teaser-num.pdf
 INPUT ./figures/teaser-num.pdf
 INPUT ./figures/teaser-num.pdf
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/tex-gyre/rm-qcsri.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/tex-gyre/rm-qcsr.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmssi8.tfm
 INPUT /usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/tex-gyre/q-rm.enc
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/tex-gyre/rm-qcsri.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/tex-gyre/rm-qcsr.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/tex-gyre/rm-qcsb.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/tex-gyre/rm-qcsr-sc.tfm
@@ -690,7 +690,6 @@ INPUT ./sop.out
 INPUT ./sop.out
 INPUT sop.run.xml
 OUTPUT sop.run.xml
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb
